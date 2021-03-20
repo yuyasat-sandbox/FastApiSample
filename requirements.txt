@@ -3,7 +3,7 @@ fastapi==0.23.0
 h11==0.8.1
 httptools==0.0.13
 itsdangerous==1.1.0
-Jinja2==2.10.1
+Jinja2==2.11.3
 MarkupSafe==1.1.1
 pydantic==0.26
 starlette==0.12.0
